@@ -6,9 +6,7 @@ apt upgrade
 
 apt install git
 
-apt install toilet
-
-https://github.com/solo-22/intall-necgrok-termux
+git clone https://github.com/solo-22/intall-necgrok-termux
 
 cd intall-necgrok-termux
 
