@@ -1,20 +1,17 @@
-# intall-necgrok-termux
+# intall-necgrok-termux 
 
 apt update
 
-
 apt upgrade
-
 
 apt install git
 
-
 apt install toilet
 
-git clone https://github.com/rooted-cyber/Install-Ngrok
+https://github.com/solo-22/intall-necgrok-termux
 
-git clone https://github.com/solo-22/intall-necgrok-termux
+cd intall-necgrok-termux
 
-cd Install-Ngrok
+ls
 
 bash install.sh
