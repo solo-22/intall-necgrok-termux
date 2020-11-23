@@ -13,3 +13,5 @@ cd intall-necgrok-termux
 ls
 
 bash install.sh
+
+./intall-necgrok-termux
